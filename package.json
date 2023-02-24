@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "name": "team-profile-generator",
+  "description": "Builds an HTML page that describes my development team",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leanne-Annable/Team-Profile-Generator.git"
+  },
+  "author": "Leanne Annable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leanne-Annable/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Leanne-Annable/Team-Profile-Generator#readme"
+}
